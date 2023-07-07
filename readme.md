@@ -1,17 +1,17 @@
-☐ JavaScript Data Types Quiz: This is a 10 question quiz game built to help developers learn and differentiate between the various eight data types in JavaScript. JavaScript was the first language that I learned in General Assembly's Software Engineering Immersive bootcamp. I originally built this quiz to help myself learn the various eight datatypes in JavaScript, but I soon realized it could help others, too.
+JavaScript Data Types Quiz: This is a 10 question quiz game built to help developers learn and differentiate between the various eight data types in JavaScript. JavaScript was the first language that I learned in General Assembly's Software Engineering Immersive bootcamp. I originally built this quiz to help myself learn the various eight datatypes in JavaScript, but I soon realized it could help others, too.
 
-☐ Screenshot(s):
+Screenshots:
 
-![Final score](image.png)
 ![Home page](image-1.png)
+![Final score](image.png)
 
-☐ Technologies Used: JavaScript, HTML, CSS. 
+Technologies Used: JavaScript, HTML, CSS. 
 
-☐ Getting Started: https://github.com/EvolvingHomosapien/javascriptdatatypequiz
+Getting Started: https://evolvinghomosapien.github.io/javascriptdatatypequiz/
 
 You can begin the JavaScript Data Types quiz by simply selecting your answer to the first question of the quiz. If you answer correctly, your answer will be highlighted in green. If it is an incorrect answer, your answer will be highlighted in red. Regardless of whether you select the correct answer, you will see the correct answer highlighted in green. After your answer has been selected, just press the "NEXT QUESTION" button to proceed to the next question. Your final score will appear out of 10 once you have completed the quiz. You can replay the quiz by pressing the "PLAY AGAIN?" button.
 
-☐ Next Steps: Planned future enhancements
+Next Steps: Planned future enhancements
 
 I would like to implement more data type questions in my question base with a randomized function so players can answer a wider variety of questions while receiving a different order and type of questions each run through.
 
