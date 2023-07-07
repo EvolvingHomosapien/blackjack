@@ -133,19 +133,19 @@ const questions = [
         },
 ];
 
+// Assigning variables to each element's ID.
+
 const questionElement = document.getElementById("question");
 const answerButtons = document.getElementById("answer-btns");
 const nextButton = document.getElementById("next-btn");
 
-// The stage variables.
-
+// The state variables.
 // This stores the question as an index value and the player's score so we can count the score.
 
 let currentQuestionIndex = 0;
 let score = 0;
 
 // The functions.
-
 // This function will set the first question's index to 0, the current score to 0, creates the next button with DOM manipulation, and displays the next question.
 
 function startQuiz(){
@@ -155,7 +155,7 @@ function startQuiz(){
     showQuestion();
 }
 
-// This function pairs an index value to each question and adds 1 to each value since the first value of an array is 0 based.
+// This function pairs an index value to each question and adds 1 to the default value since the first value of the array is 0 based.
 
 
 function showQuestion() {
