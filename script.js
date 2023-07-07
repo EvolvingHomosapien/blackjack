@@ -195,8 +195,8 @@ function refreshState(){
 
 // This function makes it so that if the selected data set is true, then it will add the class name "correct", if false, it will add the class name "incorrect".
 
-function selectAnswer(e){
-    const selectedBtn = e.target;
+function selectAnswer(a){
+    const selectedBtn = a.target;
     const isCorrect = selectedBtn.dataset.correct === "true";
     if(isCorrect){
         selectedBtn.classList.add("correct");
