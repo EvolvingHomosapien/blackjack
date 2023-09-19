@@ -15,13 +15,13 @@ I originally built this JavaScript quiz to help myself learn the various eight d
 ![Home page](image-1.png)
 ![Final score](image.png)
 
-## **Technologies Used: ** 
+## **Technologies Used**:
 
 **JavaScript, HTML, CSS, Express.JS**
 
 ## **Getting Started**:
 
-Launch the JavaScript Datay Types Quiz here: https://jasonjjiang.github.io/javascript-datatype-quiz/.
+Launch the JavaScript Data Types Quiz here: https://jasonjjiang.github.io/javascript-datatype-quiz/.
 
 You can begin the quiz by simply selecting your answer to the first question of the quiz.
 
