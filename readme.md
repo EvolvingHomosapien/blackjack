@@ -1,16 +1,16 @@
 # **JavaScript Data Types Quiz** 
 
-## **About JavaScript Data Types Quiz**
+## **About JavaScript Data Types Quiz**:
 
 JavaScript Data Types quiz is a 10 question quiz game built to help beginning developers learn and differentiate the various eight data types in the JavaScript programming language.
 
-## **Personal Note: **
+## **Personal Note**:
 
 JavaScript was the first programming language that I ever learned during General Assembly's Software Engineering Immersive bootcamp.
 
 I originally built this JavaScript quiz to help myself learn the various eight datatypes in JavaScript, but I soon realized it could help others, too.
 
-## **Screenshots: **
+## **Screenshots**:
 
 ![Home page](image-1.png)
 ![Final score](image.png)
@@ -19,7 +19,7 @@ I originally built this JavaScript quiz to help myself learn the various eight d
 
 **JavaScript, HTML, CSS, Express.JS**
 
-## **Getting Started: **
+## **Getting Started**:
 
 Launch the JavaScript Datay Types Quiz here: https://jasonjjiang.github.io/javascript-datatype-quiz/.
 
@@ -33,7 +33,7 @@ After your answer has been selected, just press the "NEXT QUESTION" button to pr
 
 Your final score will appear out of 10 once you have completed the quiz. You can replay the quiz by pressing the "PLAY AGAIN?" button.
 
-## **Ice Box Features: **
+## **Ice Box Features**:
 
 - I would like to implement more questions in the question base with a randomized function so players can answer a wider variety of questions while receiving the questions in a randomized order.
 
