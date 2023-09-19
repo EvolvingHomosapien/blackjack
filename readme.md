@@ -1,6 +1,14 @@
 # **JavaScript Data Types Quiz:** 
 
-The JavaScript Data Types quiz is a 10 question web application quiz game built to help developers learn and differentiate between the various eight data types in JavaScript. JavaScript was the first language that I learned in General Assembly's Software Engineering Immersive bootcamp. I originally built this quiz to help myself learn the various eight datatypes in JavaScript, but I soon realized it could help others, too.
+## **About JavaScript Data Types Quiz**
+
+The JavaScript Data Types quiz is a 10 question web application quiz game built to help developers learn and differentiate between the various eight data types in JavaScript. 
+
+## **Personal Note**
+
+JavaScript was the first programming language that I ever learned during General Assembly's Software Engineering Immersive bootcamp.
+
+I originally built this JavaScript quiz to help myself learn the various eight datatypes in JavaScript, but I soon realized it could help others, too.
 
 ## **Screenshots**:
 
