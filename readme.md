@@ -15,7 +15,9 @@ I originally built this JavaScript quiz to help myself learn the various eight d
 ![Home page](image-1.png)
 ![Final score](image.png)
 
-## **Technologies Used** JavaScript, HTML, CSS, Express.JS
+## **Technologies Used** 
+
+**JavaScript, HTML, CSS, Express.JS**
 
 ## **Getting Started**: 
 
