@@ -21,7 +21,17 @@ I originally built this JavaScript quiz to help myself learn the various eight d
 
 ## **Getting Started**: 
 
-You can begin the JavaScript Data Types quiz by simply selecting your answer to the first question of the quiz. If you answer correctly, your answer will be highlighted in green. If it is an incorrect answer, your answer will be highlighted in red. Regardless of whether you select the correct answer, you will see the correct answer highlighted in green. After your answer has been selected, just press the "NEXT QUESTION" button to proceed to the next question. Your final score will appear out of 10 once you have completed the quiz. You can replay the quiz by pressing the "PLAY AGAIN?" button.
+Launch the JavaScript Datay Types Quiz here: https://jasonjjiang.github.io/javascript-datatype-quiz/.
+
+You can begin the quiz by simply selecting your answer to the first question of the quiz.
+
+If you answer correctly, your answer will be highlighted in green. If it is an incorrect answer, your answer will be highlighted in red.
+
+Regardless of whether you select the correct answer, you will see the correct answer highlighted in green. 
+
+After your answer has been selected, just press the "NEXT QUESTION" button to proceed to the next question. 
+
+Your final score will appear out of 10 once you have completed the quiz. You can replay the quiz by pressing the "PLAY AGAIN?" button.
 
 ## **Ice Box Features**:
 
