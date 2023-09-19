@@ -2,7 +2,7 @@
 
 ## **About JavaScript Data Types Quiz**
 
-The JavaScript Data Types quiz is a 10 question web application quiz game built to help developers learn and differentiate between the various eight data types in JavaScript. 
+JavaScript Data Types quiz is a 10 question quiz game built to help beginning developers learn and differentiate the various eight data types in the JavaScript programming language.
 
 ## **Personal Note**
 
