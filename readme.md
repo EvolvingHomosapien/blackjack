@@ -1,4 +1,4 @@
-# **JavaScript Data Types Quiz:** 
+# **JavaScript Data Types Quiz** 
 
 ## **About JavaScript Data Types Quiz**
 
